@@ -1,0 +1,38 @@
+---
+title: "Data Science 2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+**Grundlagen der Statistik und des experimentellen Designs (BIO-06.61-015 und BMARSYS-18.61-847)**
+
+
+## Überblick der eingereichten Fallstudienergebnisse <img src="images/uhh_logo.png" align="right" width="150" style="margin-left: 20px"/>
+
+Modulverantwortliche: **Dr. Saskia Otto**
+
+### Vergleich über alle Gruppen
+
+- [Überblick](https://uham-bio.github.io/bsc-ds2-case-studies/overview.html)
+
+
+### Gruppen-spezifische Dateien
+
+- 01 [Gruppe - Alantipa](https://uham-bio.github.io/bsc-ds2-case-studies/overview.html)
+
+
+
+
+
+## Lizenz
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+  <img alt="Creative Commons License" style="border-width:0"
+        src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />
+</a>
+
+Diese Arbeit is lizenziert unter einer [Creative Commons Attribution-ShareAlike 4.0 International License ](http://creativecommons.org/licenses/by-sa/4.0/) mit Ausnahme der entliehenen und mit Quellenangabe versehenen Abbildungen.
