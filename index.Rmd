@@ -15,14 +15,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Modulverantwortliche: **Dr. Saskia Otto**
 
-### Vergleich über alle Gruppen
 
-- [Überblick](https://uham-bio.github.io/bsc-ds2-case-studies/overview.html)
+- [Sommersemester 2024](https://uham-bio.github.io/bsc-ds2-case-studies/overview_ss24.html)
 
-
-### Gruppen-spezifische Dateien
-
-- 01 [Gruppe - Alantipa](https://uham-bio.github.io/bsc-ds2-case-studies/overview.html)
+- [Sommersemester 2023](https://uham-bio.github.io/bsc-ds2-case-studies/overview.html)
 
 
 
